@@ -76,7 +76,7 @@ body {
   background-color: var(--button-and-logo-color);
   border-radius: 2px;
   left: 0;
-  bottom: -35px;
+  bottom: -34px;
 }
 
 .header__logo {
@@ -709,6 +709,7 @@ body {
   border: 1px solid rgba(0, 0, 0, 0.1);
   top: 14px;
   right: 14px;
+  cursor: pointer;
 }
 .modal-close-btn:hover,
 .modal-close-btn:focus {
